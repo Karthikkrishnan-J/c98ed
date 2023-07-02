@@ -1,0 +1,18 @@
+#start-btn
+{
+    width: 40%;
+} 
+#camera,#resultShow{
+    margin: 2px;
+    width: 450px;
+    height: 250px;
+    border:10px solid rgb(124, 103, 255);
+}
+#result1,#result2,#result3{
+    display: inline;
+    padding: 10px;
+    margin: 2px;
+    width: 450px;
+    height: 250px;
+    border:10px solid rgb(124, 103, 255);
+}
